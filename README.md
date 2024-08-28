@@ -10,10 +10,10 @@
 
 <h2>Project Screenshots:</h2>
 
-<img src="https://im.ge/i/project1.fA5IrP" alt="project-screenshot" width="1897" height="915/">
-<img src="https://im.ge/i/project2.fA57Vp" alt="project-screenshot" width="1897" height="761/">
-<img src="https://im.ge/i/project3.fA5L51" alt="project-screenshot" width="1897" height="913/">
-<img src="https://im.ge/i/project4.fA5aNq" alt="project-screenshot" width="1893" height="783/">
+<img src="https://i.im.ge/2024/08/28/fA5IrP.project1.png" alt="project-screenshot" width="1897" height="915/">
+<img src="https://i.im.ge/2024/08/28/fA57Vp.project2.png" alt="project-screenshot" width="1897" height="761/">
+<img src="https://i.im.ge/2024/08/28/fA5L51.project3.png" alt="project-screenshot" width="1897" height="913/">
+<img src="https://i.im.ge/2024/08/28/fA5aNq.project4.png" alt="project-screenshot" width="1893" height="783/">
 
   
   
